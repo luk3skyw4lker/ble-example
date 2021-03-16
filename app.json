@@ -1,0 +1,12 @@
+{
+  "name": "ble-example",
+  "displayName": "ble-example",
+  "expo": {
+    "name": "ble-example",
+    "slug": "ble-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
